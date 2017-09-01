@@ -1,6 +1,6 @@
 # vue日期控件vuedateTimePicker
 
-为解决项目中的这种业务需求gfgfdgfdgfdg
+为解决项目中的这种业务需求
 
 ![](images/date.png)
 
